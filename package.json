@@ -1,5 +1,5 @@
 {
-  "name": "webcomponents.js",
+  "name": "@trusktr/webcomponents.js",
   "version": "0.7.21",
   "description": "webcomponents.js",
   "main": "dist/webcomponents.js",
